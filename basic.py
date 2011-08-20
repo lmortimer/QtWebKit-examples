@@ -1,3 +1,6 @@
+# github.com/lastkarrde
+# 21.8.11
+
 import sys
 
 from PySide.QtCore import QUrl

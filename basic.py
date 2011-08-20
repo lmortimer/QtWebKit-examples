@@ -1,7 +1,5 @@
 import sys
 
-from PySide import QtCore, QtGui, QtWebKit
-
 from PySide.QtCore import QUrl
 from PySide.QtGui import QApplication, QGridLayout, QWidget
 from PySide.QtWebKit import QWebView

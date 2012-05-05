@@ -13,3 +13,7 @@ Defines a class which extends *QWebPage*, overrides *setUserAgentForUrl()* metho
 settings.py
 ===========
 Shows how to enable and disable various settings including the Web Inspector/Debugger, Javascript, Local Storage and Plugins (Flash).
+
+map/map.py
+----------
+Load a Google map in the webview. Pass data.
